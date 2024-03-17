@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Omalmie Alwis <br><br>- 🔭 I’m an undergraduate in BSc(hons) Computer Engineering.<br>- 📚 I'm currently studying at General Sir John Kotelawala Defence University.<br>- ⚡ I'm interseted in Computer Networking and cloud area.</p>
+<p align="left">I'm Omalmie Alwis <br><br>- 🔭 I’m an undergraduate in BSc(hons) Computer Engineering.<br>- 📚 I'm currently studying at General Sir John Kotelawala Defence University.<br>- ⚡ I'm interseted in Computer Networking and Cloud Computing.</p>
 
 ###
 
